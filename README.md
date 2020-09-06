@@ -1,1 +1,1 @@
-# Implement SOLID Principles on an existing PHP project
+# Implement SOLID Principles on existing PHP project
